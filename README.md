@@ -1,7 +1,6 @@
-#LAB4
-# React Intermediate Lab (Frontend only)
+# Lab4
+# React Intermediate Lab 
 
-Ứng dụng Vite + React chứa toàn bộ bài tập (mỗi trang một section). Màu nền #F1F3E0, tiêu đề #778873, nút/tab #D2DCB6, font Arial.
 
 ## Chạy ứng dụng
 ```bash
